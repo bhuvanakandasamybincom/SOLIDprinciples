@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Assignment-1\\SOLIDprinciples\\SolidAndPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76843242-2A69-43D0-AF8A-448C8190F8F8}|SolidAndPatterns.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\assignment-1\\solidprinciples\\solidandpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76843242-2A69-43D0-AF8A-448C8190F8F8}|SolidAndPatterns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Assignment-1\\SOLIDprinciples\\SolidAndPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Assignment-1\\SOLIDprinciples\\SolidAndPatterns\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAjwMoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:57:09.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
